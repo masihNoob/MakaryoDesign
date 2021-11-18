@@ -1,0 +1,121 @@
+{
+    "name": "button_7",
+    "nodes": [
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "Paint_Layer_26",
+            "node_path": "Paint_Layer_26",
+            "offset": [
+                -108.5,
+                108.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                9,
+                9
+            ],
+            "resource_path": "export\\bg_homescreen\\button_7\\Paint_Layer_26.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -3
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "shadow",
+            "node_path": "shadow",
+            "offset": [
+                -108.5,
+                108.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                10,
+                4
+            ],
+            "resource_path": "export\\bg_homescreen\\button_7\\shadow.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -2
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "gear_png_Merged",
+            "node_path": "gear_png_Merged",
+            "offset": [
+                -108.5,
+                108.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                0,
+                0
+            ],
+            "resource_path": "export\\bg_homescreen\\button_7\\gear_png_Merged.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -1
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "info_png",
+            "node_path": "info_png",
+            "offset": [
+                -108.5,
+                108.5
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                78,
+                45
+            ],
+            "resource_path": "export\\bg_homescreen\\button_7\\info_png.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": 0
+        }
+    ]
+}
